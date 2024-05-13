@@ -83,7 +83,6 @@ p{
 .whatsapp{
     width: 18px;
     height: 18px;
-    top: 465px;
     left: 261px;
     margin-left: 8px;
 }
@@ -91,7 +90,6 @@ p{
     margin-left: 20px;
     width: 18px;
     height: 18px;
-    top: 465px;
     left: 235px;
 }
 .whatsapp, .linkedin{
@@ -108,5 +106,4 @@ p{
     padding-top: 25px;
     width: auto;
     height: 70px;
-
 }
