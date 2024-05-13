@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    font-family: 'Roboto', sans-serif;
+    background-color: #D74949;
+
+}
+
+.blanc{
+    font-family: 'Roboto', sans-serif;
+    background-color: #F3F3F3;
+    width: 1110px;
+    height: 615px;
+    left: 165px;
+    margin: auto;
+}
+
+h1{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300, bold;
+    width: 64px;
+    height: 16px;
+    padding-top: 100px;
+    margin-left: 50px;
+    text-shadow: 1px 1px 2px black;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 18.75px;
+    margin-right: 50px;
+    text-align: right;
+    padding-top: 15px;
+}
+
+p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+.changeColorOfAm{
+    color: #8E2826;
+}
+
+.card{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    border-radius: 5%;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    top: 215px;
+    left: 215px;
+}
+
+.foot{
+    background-color: #3A3A3A;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 25px;
+    width: auto;
+    height: 70px;
+    top: 615px;
+}
